@@ -34,13 +34,13 @@ For example
 ./tictactoe 6 4
 ```
 
-##Testing
+## Testing
 
 You can test your build using the provided input and output files (game.in and game.out). Compare your program's output with the expected output to ensure accuracy.
 ```bash
 ./tictactoe < game.in > myout.txt
 diff -y myout.txt game.out
 ```
-##Contributing
+## Contributing
 
 This project is part of an academic coursework assignment. Therefore it is not fully mine.
